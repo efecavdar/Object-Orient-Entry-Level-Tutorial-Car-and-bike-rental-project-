@@ -1,8 +1,8 @@
 # Rent_Before_it_End
  Car rental project (oop)
 
-This project is an example for a car/bike rent website.
-In this project:
+This project is an example for a car/bike rent website. /n
+In this project: /n
 You can display how many cars/bikes left 
 Rent and return vehicle
 Show the bill after you return the vehicle (it is not very expensive)
